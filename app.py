@@ -78,7 +78,7 @@ st.markdown("""
 Welcome! 🎉
 
 Use the **sidebar** to explore:
-- 📘 Project Overview  
+- 📘 Project Overview-- Home 
 - 📡 Live Matches  
 - 📊 Top Stats  
 - 🗄️ SQL Queries  
