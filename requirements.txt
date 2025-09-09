@@ -2,3 +2,4 @@ streamlit
 requests
 pandas
 python-dotenv
+plotly>=5.24.0
